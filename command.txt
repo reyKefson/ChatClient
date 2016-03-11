@@ -1,0 +1,16 @@
+--------------------------private-message--------------------------
+-t receiverName // Hi, John !
+--------------------------message-to-group-------------------------
+-g groupName // Hi, friends !
+------------------------------command------------------------------
+/*creation group*/
+-c create group 
+Enter the group name :
+groupName
+Enter names of participants :
+victor alla inna ola
+------------------------------command------------------------------
+-c print users
+------------------------------command------------------------------
+-c print online users
+-------------------------------------------------------------------
